@@ -21,10 +21,10 @@ void draw()
 
 	}
 
-{
- startX=0;
+
 }
 void mousePressed()
+{ startX=0;
  startY=150;
  endX=0;
  endY=150;
